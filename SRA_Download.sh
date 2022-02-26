@@ -2,6 +2,8 @@
 
 echo "Give me your accession number (SRA123456): "
 
+mkdir GST_RNA-Seq
+
 cd ~/GST_RNA-Seq/Raw-Read
 
 read -a sra
